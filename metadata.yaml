@@ -1,0 +1,24 @@
+_repo: The-National-Cook-Book-9th-ed._45572
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45572-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peterson, Hannah Mary (Bouvier)
+    gutenberg_agent_id: '43362'
+    url: http://www.gutenberg.org/2009/agents/43362
+description: ''
+gutenberg_issued: '2014-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: The National Cook Book, 9th ed.
+url: http://www.gutenberg.org/ebooks/45572
